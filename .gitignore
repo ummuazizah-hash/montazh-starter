@@ -1,0 +1,4 @@
+input/
+work/
+node_modules/
+*.wave
